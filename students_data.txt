@@ -1,0 +1,21 @@
+101,Aarav Sharma,Computer Science,88.5
+102,Priya Verma,Electronics,76.0
+103,Rohan Mehta,Mechanical,64.5
+104,Sneha Iyer,Computer Science,92.0
+105,Karthik Raj,Civil Engineering,58.0
+106,Ananya Patel,Information Technology,81.5
+107,Vikram Singh,Computer Science,73.0
+108,Meera Nair,Electronics,89.5
+109,Arjun Kumar,Mechanical,67.0
+110,Diya Menon,Civil Engineering,78.5
+111,Rahul Das,Computer Science,85.0
+112,Ishita Rao,Information Technology,94.0
+113,Aditya Joshi,Electronics,71.5
+114,Kavya Reddy,Mechanical,88.0
+115,Nikhil Shah,Civil Engineering,62.5
+116,Shreya Kapoor,Computer Science,91.0
+117,Manish Gupta,Information Technology,75.5
+118,Pooja Krishnan,Electronics,83.0
+119,Rajiv Kumar,Mechanical,69.5
+120,Harini Devi,Civil Engineering,86.0
+121,Esther Swetha,Computer Science,97.0
